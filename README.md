@@ -6,3 +6,4 @@ Join us for the consistency test | Resource hub
 - Day 3 : [Sending emails with EmailJS](Day_3/email.html)
 - Day 4 : [Fibonacci Series](Day_4/fibonacci.py) | [Midpoint circle](Day_4/MIDPT.C)
 - Day 5 & 6 : [Ping Pong Game](Day_6/pingpong/main.py)
+- Day 7 : [Staircase Pattern](Day_7/pattern.py)
