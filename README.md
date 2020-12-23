@@ -8,4 +8,3 @@ Join us for the consistency test | Resource hub
 - Day 5 & 6 : [Ping Pong Game](Day_6/pingpong/main.py)
 - Day 7 : [Staircase Pattern](Day_7/pattern.py)
 - Day 8 : [Hangman Game](Day_8/Step5_hangman.py)
-- Day 9 : [Face Detection in OpenCV](DAY_9/Face detection using HAAR CLASSIFIERS/Face_Eye_Detection_in_OPENCV.py)
